@@ -3,6 +3,7 @@ name = "file-exists-macro"
 description = "file exists macro"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
 
 [lib]
 proc-macro = true
